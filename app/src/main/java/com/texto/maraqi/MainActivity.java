@@ -8,7 +8,8 @@ import android.widget.Button;
 import androidx.annotation.Nullable;
 import androidx.appcompat.app.AppCompatActivity;
 
-import com.texto.hellopopup.PopupManager;
+import com.texto.lanckner.PopupManager;
+
 
 public class MainActivity extends AppCompatActivity {
     @Override
